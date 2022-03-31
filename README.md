@@ -24,3 +24,12 @@ from sklearn.model_selection import train_test_split
 
 import datetime 
 ```
+
+## Contributing 
+Choose the dimensions (128,128) for each image, so then we are able to read the picture and constitute our learning base. 
+We can write the learning code of the model and use TPU for the learning. 
+Classify all test section (where we read the text/ picture and applied the learning model in order to measure the performance).
+On Anaconda Prompt, we launch Jupyter and Streamlit. 
+
+## License 
+[MIT] (https://choosealicense.com/licenses/mit/#)
