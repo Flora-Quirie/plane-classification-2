@@ -1,0 +1,9 @@
+#chemin d'accès à la base de données 
+DATA_DIR : 'C:\Users\flora 
+#chemin d'accès au modèle 
+
+TARGET_NAME : manufacturer 
+IMAGE_WIDHT : 128
+IMAGE_HEIGHT : 128
+IMAGE_DEPTH : 3
+
